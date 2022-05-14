@@ -1,1 +1,0 @@
- img.save('encryptedpic.png')
